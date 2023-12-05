@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">EldarWallet</string>
+    <string name="new_bank_card">Asociar tarjeta</string>
+    <string name="generate_payment">Pago con celular</string>
+    <string name="generate_qr"> Pago con QR</string>
+
+    <!-- login screen / create user screen -->
+    <string name="login_email">Email</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_email_hint">Ingrese su email</string>
+    <string name="login_password_hint">Ingrese su contraseña</string>
+    <string name="login_entry_btn">Entrar</string>
+    <string name="login_create_new_user_btn">Crear nuevo usuario</string>
+    <string name="create_user_name">Nombre</string>
+    <string name="create_user_name_hint">Ingrese su nombre</string>
+    <string name="create_user_surname">Apellido</string>
+    <string name="create_user_surname_hint">Ingrese su apellido</string>
+    <string name="create_user_repeat_password_hint">Repita su contraseña</string>
+    <string name="create_user_btn">Crear</string>
+
+    <!-- home screen -->
+    <string name="home_balance_title">Saldo disponible</string>
+    <string name="home_new_card_btn">Agregar nueva tarjeta</string>
+
+    <!-- new card screen -->
+    <string name="new_card_name_title">Nombre completo</string>
+    <string name="new_card_name_hint">Ingrese su nombre completo como figura en la tarjeta</string>
+    <string name="new_card_surname_title">Apellido</string>
+    <string name="new_card_surname_hint">Ingrese su apellido</string>
+    <string name="new_card_card_number_title">Número de tarjeta</string>
+    <string name="new_card_card_number_hint">Ingrese su número de tarjeta</string>
+    <string name="new_card_exp_date_title">Fecha de vencimiento</string>
+    <string name="new_card_exp_date_hint">Ingrese su fecha de vencimiento</string>
+    <string name="new_card_security_code_title">Código de seguridad</string>
+    <string name="new_card_security_code_hint">Ingrese su código de seguridad</string>
+    <string name="new_card_save_btn">Guardar</string>
+    
+    <!-- generate payment screen -->
+    <string name="generate_payment_associated_card">Tarjeta asociada</string>
+    <string name="generate_payment_available_balance">Saldo disponible</string>
+    <string name="generate_payment_simulate_payment">Simular pago</string>
+    <string name="generate_payment_info_label">Acerca el celular a la terminal para
+    realizar el pago</string>
+
+    <!-- payment completed screen -->
+    <string name="payment_completed_info">Pago finalizado, verifique su terminal.</string>
+
+    <!-- snackbar -->
+    <string name="snackbar_emptys_fields">Debe completar todos los campos</string>
+    <string name="snackbar_user_not_found">El usuario no existe o los datos son incorrectos</string>
+    <string name="snackbar_error_saving_card">Ocurrio un error al intentar guardar la
+        tarjeta</string>
+    <string name="snackbar_error_saving_user">Ocurrio un error al intentar crear el usuario</string>
+    <string name="snackbar_saved_card">Tarjeta guardada correctamente</string>
+    <string name="snackbar_saved_user">Se creo el usuario correctamente</string>
+    <string name="snackbar_invalid_card">Solo se pueden guardar tarjetas visa, mastercard o
+        american express</string>
+    <string name="snackbar_invalid_user">La tarjeta no pertenece al usuario actual</string>
+    <string name="snackbar_invalid_email">El email es inválido</string>
+    <string name="snackbar_invalid_password">La contraseña debe contener minusculas, mayusculas y numeros</string>
+    <string name="snackbar_passwords_not_match">Las contraseñas son diferentes</string>
+    <string name="snackbar_qr_error">No se pudo obtener el código QR</string>
+    <string name="snackbar_connection_error">No hay internet. Por favor verifique su conexión</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_8">8dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="shape_4">4dp</dimen>
+    <dimen name="height_36">36dp</dimen>
+    <dimen name="height_24">24dp</dimen>
+    <dimen name="height_48">48dp</dimen>
+    <dimen name="padding_24">24dp</dimen>
+    <dimen name="border_1">1dp</dimen>
+    <dimen name="shape_8">8dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="size_24">24dp</dimen>
+    <dimen name="height_80">80dp</dimen>
+    <dimen name="padding_36">36dp</dimen>
+    <dimen name="padding_18">18dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_32">32dp</dimen>
+    <dimen name="padding_6">6dp</dimen>
+    <dimen name="elevation_8">8dp</dimen>
+    <dimen name="corner_shape_16">16dp</dimen>
+    <dimen name="height_16">16dp</dimen>
+    <dimen name="height_4">4dp</dimen>
+</resources>
